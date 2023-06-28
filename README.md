@@ -112,5 +112,6 @@ Set-up the automations you prefer. I have two automations: i) turn off the stere
     service: homeassistant.turn_on
 ```
 Now you just need to restart your home-assistant instance.
+
 ![5efa446e3cef3433e11957c2afafa854c8e27e0e](https://github.com/giovi321/mqtt-hifi-switch/assets/6443515/c3d9c0e5-620f-4fd3-889c-7ff11a3cc979)
 
